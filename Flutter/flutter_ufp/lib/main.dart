@@ -7,6 +7,7 @@ import 'dart:async';
  * Title: QRCode Reader
  *
  * @author Fábio Silva
+ *         Daniel Pinto
  * @version 1.0
  */
 void main() => runApp(MaterialApp(
