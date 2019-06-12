@@ -21,7 +21,7 @@ import java.util.ArrayList;
  * Title: QRCode Attendance API
  *
  * @author Fábio Silva
- *         Danie Pinto
+ *         Daniel Pinto
  * @version 1.0
  */
 @RestController
