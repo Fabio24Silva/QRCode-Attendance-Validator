@@ -15,6 +15,7 @@ import 'package:flutter_ufp/main.dart';
  * Title: QRCode Reader
  *
  * @author Fábio Silva
+ *         João Caçote
  * @version 1.0
  */
 void main() {

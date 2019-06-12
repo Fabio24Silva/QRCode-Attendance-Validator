@@ -8,6 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote 
  * @version 1.0
  */
 public final class Hash {

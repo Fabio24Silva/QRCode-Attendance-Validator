@@ -5,6 +5,14 @@ import lombok.*;
 
 import javax.persistence.*;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @EqualsAndHashCode(callSuper = false)
 @Entity
 @Data

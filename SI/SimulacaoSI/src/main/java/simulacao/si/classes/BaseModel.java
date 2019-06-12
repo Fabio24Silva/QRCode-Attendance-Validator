@@ -9,6 +9,14 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @MappedSuperclass
 @Getter
 @Setter

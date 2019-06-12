@@ -19,6 +19,13 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = SiApplication.class)

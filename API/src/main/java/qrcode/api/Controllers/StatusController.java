@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 @RestController

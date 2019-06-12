@@ -3,6 +3,7 @@
  * Title: QRCode Attendance View
  *
  * @author Fábio Silva
+ *         João Caçote
  * @version 1.0
  */
 const API = "http://lpiq.ufp.pt";

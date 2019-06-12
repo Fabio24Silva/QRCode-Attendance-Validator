@@ -5,6 +5,14 @@ import org.springframework.stereotype.Service;
 import simulacao.si.classes.Curso;
 import simulacao.si.repositories.CursoRepo;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @Service
 public class CursoService {
     @Autowired

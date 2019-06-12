@@ -20,6 +20,7 @@ import java.util.UUID;
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 @RestController

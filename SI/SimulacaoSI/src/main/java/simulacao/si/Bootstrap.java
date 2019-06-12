@@ -12,6 +12,14 @@ import simulacao.si.repositories.UnidadeCurricularRepo;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 
 @Component
 public class Bootstrap implements ApplicationListener<ContextRefreshedEvent> {

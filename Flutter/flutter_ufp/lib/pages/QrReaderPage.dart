@@ -12,6 +12,7 @@ import 'package:flutter_udid/flutter_udid.dart';
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 class QrReaderPage extends StatefulWidget {

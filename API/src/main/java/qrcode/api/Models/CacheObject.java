@@ -8,6 +8,7 @@ import java.time.LocalTime;
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote 
  * @version 1.0
  */
 public class CacheObject {

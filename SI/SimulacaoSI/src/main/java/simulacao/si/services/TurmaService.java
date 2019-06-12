@@ -8,6 +8,14 @@ import simulacao.si.classes.Turma;
 import simulacao.si.repositories.AlunoRepo;
 import simulacao.si.repositories.TurmaRepo;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @Service
 public class TurmaService {
     @Autowired

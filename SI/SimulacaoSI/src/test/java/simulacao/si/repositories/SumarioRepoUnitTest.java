@@ -17,6 +17,14 @@ import java.util.Optional;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @RunWith(MockitoJUnitRunner.class)
 public class SumarioRepoUnitTest {
     Curso c1 = new Curso("Engenharia Informática");

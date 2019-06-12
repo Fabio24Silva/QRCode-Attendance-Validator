@@ -7,6 +7,15 @@ import java.time.LocalTime;
 
 import static org.junit.Assert.*;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote
+ * 
+ * @version 1.0
+ */
+
 public class CacheObjectControllerTest {
 
     @Test

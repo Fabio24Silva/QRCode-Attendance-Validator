@@ -8,6 +8,7 @@ import 'dart:async';
  *
  * @author Fábio Silva
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 void main() => runApp(MaterialApp(

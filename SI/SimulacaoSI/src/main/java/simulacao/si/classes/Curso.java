@@ -7,6 +7,14 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote
+ * @version 1.0
+ */
+
 @EqualsAndHashCode(callSuper = false)
 @Entity
 @Data

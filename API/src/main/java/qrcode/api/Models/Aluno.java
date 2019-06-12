@@ -6,6 +6,7 @@ package qrcode.api.Models;
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote 
  * @version 1.0
  */
 public class Aluno {

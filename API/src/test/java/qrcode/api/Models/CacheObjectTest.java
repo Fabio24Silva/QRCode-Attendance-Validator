@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
  * Title: QRCode Attendance API
  *
  * @author Fábio Silva
+ *		   João Caçote 
  * @version 1.0
  */
 public class CacheObjectTest {

@@ -4,6 +4,7 @@
  *
  * @author Fábio Silva
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 

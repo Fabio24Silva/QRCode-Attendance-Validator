@@ -10,6 +10,14 @@ import simulacao.si.services.SumarioService;
 
 import java.util.ArrayList;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @RestController
 @RequestMapping("/sumario")
 public class SumarioController {

@@ -11,6 +11,14 @@ import java.time.LocalDate;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 @RunWith(SpringRunner.class)
 @DataJpaTest
 public class CursoRepoIntegrationTest {

@@ -7,6 +7,14 @@ import simulacao.si.classes.UnidadeCurricular;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ *
+ * Title: QRCode Attendance API
+ *
+ * @author João Caçote 
+ * @version 1.0
+ */
+
 public class CursoTest {
 
     @Before

@@ -7,6 +7,7 @@ import 'package:flutter_ufp/pages/QrReaderPage.dart';
  *
  * @author Fábio Silva 
  *         Daniel Pinto
+ *         João Caçote
  * @version 1.0
  */
 class LoginPage extends StatefulWidget {

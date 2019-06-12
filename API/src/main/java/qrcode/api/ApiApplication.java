@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Title: QRCode Attendance API
  *
  * @author Fábio Silva
+ *         João Caçote 
  * @version 1.0
  */
 @SpringBootApplication
