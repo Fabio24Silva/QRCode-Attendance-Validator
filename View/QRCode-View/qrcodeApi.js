@@ -3,6 +3,7 @@
  * Title: QRCode Attendance View
  *
  * @author Fábio Silva
+ *         Daniel Pinto
  * @version 1.0
  */
 
