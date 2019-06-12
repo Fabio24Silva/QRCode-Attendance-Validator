@@ -5,7 +5,8 @@ import 'package:flutter_ufp/pages/QrReaderPage.dart';
  *
  * Title: QRCode Reader
  *
- * @author Fábio Silva
+ * @author Fábio Silva 
+ *         Daniel Pinto
  * @version 1.0
  */
 class LoginPage extends StatefulWidget {
