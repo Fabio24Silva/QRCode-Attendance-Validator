@@ -4,7 +4,8 @@ package qrcode.api.Models;
  *
  * Title: QRCode Attendance API
  *
- * @author Fábio Silva
+ * @author Fábio Silva 
+ *         Daniel Pinto
  * @version 1.0
  */
 public class Aluno {
