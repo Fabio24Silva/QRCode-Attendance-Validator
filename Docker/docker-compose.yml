@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  springboot-docker-si-test-container:
+    restart: always
+    build:
+      context: ./si-test
+    ports:
+      - "8081:8081"
+
+  springboot-docker-qrcode-api-container:
+    restart: always
+    depends_on:
+      - springboot-docker-si-test-container
+#          condition: service_healty
+    build:
+      context: ./qrcode-api
+    ports:
+      - "8080:8080"
+
+  web:
+    image: httpd:2.4.39-alpine
+    build: ./view
+    container_name: apache_web
+    restart: always
+    depends_on: 
+      - springboot-docker-qrcode-api-container
+#          condition: service_healty
+    ports:
+      - "8082:80"
