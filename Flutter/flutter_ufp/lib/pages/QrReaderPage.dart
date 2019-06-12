@@ -10,7 +10,8 @@ import 'package:flutter_udid/flutter_udid.dart';
  *
  * Title: QRCode Reader
  *
- * @author Fábio Silva
+ * @author Fábio Silva 
+ *         Daniel Pinto
  * @version 1.0
  */
 class QrReaderPage extends StatefulWidget {
