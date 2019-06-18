@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author Fábio Silva
  *         João Caçote 
+ *         Daniel Pinto
  * @version 1.0
  */
 @SpringBootApplication
